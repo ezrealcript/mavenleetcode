@@ -4,8 +4,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/*
+ * master分支
+ */
+
 public class Q131  {
-    List<List<String>> ret = new ArrayList<>();
+    List<List<String>> ret   = new ArrayList<>();
     List<String> res = new ArrayList<>();
     int n;
     boolean[][] f;
